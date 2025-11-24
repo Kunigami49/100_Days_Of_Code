@@ -3,8 +3,7 @@
 #include <stdio.h>
 
 int main() {
-    float radius;
-    float area, circumference;
+    float radius, area, circumference ;
 
     printf("Enter the radius of the circle: ");
     scanf("%f", &radius);
